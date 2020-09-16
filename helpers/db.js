@@ -39,4 +39,3 @@ export const insertPlace = (title, imageUri, address, lat, lng) => {
       return promise;
 };
 
-export const fe
